@@ -1,0 +1,3 @@
+http://localhost:8888/notebooks/prmry%20fuel.ipynb
+
+localhost:8888/notebooks/capacity%20predctn.ipynb
